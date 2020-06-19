@@ -1,0 +1,64 @@
+1. What is pyhton language?
+
+ans:- python is a popular programming language created by Guido van rossum and releasd on 1991.
+	It is a high level language. It supports muliple paradigms.
+	Its is used for:
+	i) web development 
+	ii) software devopment
+	etc...
+
+2. What are the key features of puthon of python?
+
+ans:- The key features of python are:-
+	a) object oriented.
+	b) crossplatform.
+	c) rich libraries. 
+	d) simple to use.
+	e) elegant syntax.
+
+3. How is python a interpreted language?
+
+ans:- Python is called a interpreted language because it goes through an interpreter, which turns
+      code you write into language understood by your computer's processor. Later on when you work
+      on a project on your own computer, you will download and use the python interpreter to able to 
+      write python code and execute it on your own.
+
+4. How is memory managed in python?
+
+ans:-Memory management in pythonn involves a private heap containg allpython objects and data structures
+     Interpreter takes care of python heap and the programmer has to access to it.
+	- the allocation of heap space is controlled by python memory manager.
+	- python has the the garbage collector which recycles all the unused memory
+	
+5. What is python path?
+
+ans:- Python path is an environment variale which you can set to add additional directories where python 
+      will look for the modules and packages. For most installation you should set this variables sinse 
+      these they are not needed for python to run. Python knows where to find standard linbraries.
+
+6. What are the generators in python?
+
+ans:- Generators are very easy to use but diffivuilt to understand. Generators are used to creat iterators 
+      but with different approach. Generator are simple function which returns an iterable set of items ,
+      one at a time, in a special way.
+
+7. Does python have oops concept?
+
+ans:- Yes, python has oops concept.
+ 
+
+8. Is python case sensitive?
+
+ans:- Yes, python is case sensitive. There is difference between Var and var.
+
+
+9. How long can an identifier be in python?
+
+ans:- 79 characters.
+
+10. With python, how do you find out which directory you are currently in?
+
+ans:- By using getcwd() method you can find out which directory you are currently in.Cwd is currebt working 
+      directory in python.          
+ 
+   
